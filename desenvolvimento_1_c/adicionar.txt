@@ -1,0 +1,2 @@
+Geração de dados para gráfico
+Geração de dados para correlação com python e excel
